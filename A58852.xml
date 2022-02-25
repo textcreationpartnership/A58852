@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of Sir William Scroggs, Kt., Lord Chief Justice of the King's-Bench, to the articles of Dr. Titus Oates and Mr. William Bedlow</title>
+            <author>Scroggs, William, Sir, 1623?-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58852</idno>
+            <idno type="STC">Wing S2121</idno>
+            <idno type="STC">ESTC R13287</idno>
+            <idno type="EEBO-CITATION">13135544</idno>
+            <idno type="OCLC">ocm 13135544</idno>
+            <idno type="VID">97915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97915)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of Sir William Scroggs, Kt., Lord Chief Justice of the King's-Bench, to the articles of Dr. Titus Oates and Mr. William Bedlow</title>
+                  <author>Scroggs, William, Sir, 1623?-1683.</author>
+               </titleStmt>
+               <extent>3-4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Bedloe, William, 1650-1680.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:97915:1" rendition="simple:additions"/>
+            <head>THE ANSWER OF Sir Willam Scroggs, K<hi rend="sup">t</hi>. Lord Chief Juſtice of the <hi>King's-Bench,</hi> TO THE ARTICLES OF Dr. <hi>TITUS OATES,</hi> and Mr. <hi>WILLIAM BEDLOW.</hi>
+            </head>
+            <p n="1">I. TO the firſt he ſaith, That the Lord <hi>Brudenel</hi> was Bailed by the Court of the <hi>Kings-Bench</hi> in open Court, and afterwards by the Court diſcharged; with this, That <hi>William Bedlow</hi> did importune the Lord <hi>Weſtmoreland</hi> to<note place="margin">See the Rules of Court.</note> get the ſaid Lord <hi>Brudenel</hi> diſcharged, for that he had nothing to ſay againſt him, as he ſaid to the Lord <hi>Weſtmoreland.</hi>
+            </p>
+            <p n="2">II. To the ſecond he ſaith, That as to his omitting or miſrepeating the Evidence at Sir <hi>George Wakeman</hi>'s Tryal, it is a Reflection upon the whole Court, to ſuppoſe it true, and that they ſhould let it paſs. But he ſaith, That Mr. <hi>Oates</hi> being ask'd at that Tryal, why he did not charge Sir <hi>George Wakeman</hi> at the Council-Table with a Letter under his own hand concerning the Death of the King? he anſwered, He did not know but that he did: To which it was replied, It is plain he did not; for then the Council would have committed him: To which Mr. <hi>Oates</hi> replied, That that Council would commit no body for the Plot. Which might be the cauſe of the Miſdemeanour of <hi>Frowning</hi> in the Articles mentioned.</p>
+            <p n="3">III To the third he ſaith, He doth not remember that ever he expreſs'd much concerning their Credit before that Tryal, but that there were ſome paſſage at that Tryal, which gave him great cauſe of doubt; which he hopes he might do, without making it an Article of Miſdemeanour.</p>
+            <p n="4-5">IV. &amp; V. To the fourth and fifth he ſaith, That the Perſons in the Articles mentioned, were committed by him for publiſhing ſeveral libellous and ſcandalous Papers, which were proved againſt them upon Oath: Which Commitments, even of a <hi>Feme Covert</hi> alſo, notwithſtanding Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi>'s Skill, were according to Law; though there is no Law for theſe perſons to call me to account for Judicial Acts done upon other Men.</p>
+            <p n="6">
+               <pb n="4" facs="tcp:97915:2"/>VI. To the ſixth, which is an inſolent Scandal, he referreth himſelf to the Teſtimony of that Gentleman of Quality, whoever he be.</p>
+            <p n="7">VII. To the ſeventh he ſaith, That the perſons in this Article were bailed and diſcharged by the Court, where the Attorney General was firſt called; but indeed Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi>'s Conſent was not askt.</p>
+            <p n="8">VIII. To the eighth, he ſaith, He conceives himſelf not obliged to do all the buſineſs that Juſti<g ref="char:EOLhyphen"/>ces of the Peace may do; and though without an offence he might have given ſuch an anſwer as is mentioned, yet he did not, but a ſervant of his did.</p>
+            <p n="9">IX. To the ninth he ſaith, That when the cauſe was tryed, he told the Jury the matter was plain, and ſo did the reſt of the Court; upon which he went away, without any Compilment to Mr. <hi>Oates,</hi> to try Cauſes in <hi>London.</hi>
+            </p>
+            <p n="10">X. To the tenth he ſaith, that <hi>Osborne</hi> made onely two Affidavits before him, the ſubſtance of one was, That one <hi>Bowring</hi> a ſervant to Mr. <hi>Oates</hi> had ſaid, that he had heard Mr. <hi>Oates</hi> ſay, That the Kingdom of <hi>England</hi> would never flouriſh, until it became Elective, and the Kings choſen by the People. The other Affidavit was, when he was ſent to him by an Order of Council to be Exa<g ref="char:EOLhyphen"/>mined, wherein amongſt other things he Swears, That though at the Tryal of <hi>Knox</hi> and <hi>Lane,</hi> it was asked where <hi>Osborne</hi> was, and Mr. <hi>Oates</hi> his Counſel anſwered that he was fled, yet <hi>Osborne</hi> ſwears, that he at that time was at his Fathers Houſe in the Country, and that Mr. <hi>Oates</hi> knew it; That he took his leave of him the day before he went, and told whether he went, and ſaw a Letter wrote by Mr. <hi>Oates</hi> to his Father to ſend for him; notwithſtanding it was carried at the Tryal as if he had been fled no man knew whither; ſo that the Affidavit which the Article chargeth me for permit<g ref="char:EOLhyphen"/>ting to be made, was not Sworn before me.</p>
+            <p n="11">XI. He ſaith, it is more to be wondred how Mr. <hi>Oates</hi> ſhould dare to Charge that as an Article of Miſdemeanour, which was ſaid in the Kings preſence, and yet repeated falſe too.</p>
+            <p n="12">XII. That at <hi>Monmouth</hi> Aſſizes he did tell Mr. <hi>Bedlow,</hi> that he was more unſatisfied about Mr. <hi>Langhorns</hi> Tryal than all the Reſt; and the rather, for that he was credibly informed ſince the Tryal, that Mr. <hi>Langhorns</hi> Study was ſo ſcituated, that he that walked in his Chamber could not ſee Mr. <hi>Langhorne</hi> write in his Study: which was Mr. <hi>Bedlow</hi>'s Evidence.</p>
+            <p n="13">XIII. He ſaith, the matter complained of is a meer Contract with other Men, of which he thinks himſelf not bound to give Mr. <hi>Oates</hi> and Mr. <hi>Bedlow</hi> any other Account, but that by the taking of Twenty Guinies he loſt forty; and that his backwardneſs to go into Court to <hi>Wakeman</hi>'s Tryal, makes it look as if he had not had Ten thouſand pound to favour <hi>Wakeman</hi> in this Tryal.</p>
+            <p>If theſe ARTICLES ſhall appear to Your Majeſty to be frivolous, or ſcandalous, or not true; I humbly pray Your Majeſty's juſt Reſentment thereon, in Honour to Your <hi>Courts</hi> and <hi>Government.</hi>
+And that ſuch an <hi>unknown Attempt</hi> may not go unpuniſhed, That the Promoters may be left to be proceeded againſt according to Law.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <p>THe Articles of Dr. <hi>Titus Oates</hi> and Mr. <hi>William Bedlow</hi> againſt the Lord Chief Juſtice <hi>Scroggs</hi> were heard this <hi>21th</hi> of <hi>January,</hi> 1679. before the King and Council; and upon the hearing of both ſides, Dr. <hi>Oates</hi> and Captain <hi>Bedlow</hi> are left to be proceeded againſt according to Law.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
